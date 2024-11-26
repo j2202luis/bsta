@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the Biography page
-st.title("Biography of John Doe")
+st.title("Biography of John luis hernandez")
 
 # Add some text and subheadings
 st.header("About Me")
