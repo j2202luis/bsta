@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Biography of John Luis Hernandez")
 
 # Add an image
-st.image("https://www.facebook.com/photo?fbid=1315875862908202&set=a.108824920279975", width=400)  # Replace with your image path or URL
+st.image("https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-1/466729063_1315875869574868_5258799122525142086_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeHgHAq4IfUQC7mQl2nceAQ7bndqOX6-4BBud2o5fr7gEPYgHepfPusRoyra32rfG1PioTOPMUyMlbbTyz1UFFRi&_nc_ohc=Gs9D8fk99XcQ7kNvgE12Bk9&_nc_zt=24&_nc_ht=scontent.fcgy2-2.fna&_nc_gid=AErGhae3C_KRvSL_bHgB_DT&oh=00_AYDPytbLBgBYCV_RJmdB1TsPddOKvJsijm5Jz6zT4Jqglw&oe=674B301E", width=400)  # Replace with your image path or URL
 
 # Add some text and subheadings
 st.header("About Me")
