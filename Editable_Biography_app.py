@@ -1,39 +1,47 @@
 import streamlit as st
 
 # Title of the Biography page
-st.title("Biography of John luis hernandez")
+st.title("Biography of John Luis Hernandez")
+
+# Add an image
+st.image("path_to_your_image.jpg", width=400)  # Replace with your image path or URL
 
 # Add some text and subheadings
 st.header("About Me")
 st.write("""
-Hello! My name is **john luis j hernandez**, and I am 18 years old. I live in brgy. Hayanggabon Claver Surigao Del Norte. and i love dancing and going into nature trips also playing online games 
+Hello! My name is **John Luis J. Hernandez**, and I am 18 years old. I live in Brgy. Hayanggabon, Claver, Surigao Del Norte. I love dancing, going on nature trips, and playing online games.
 """)
 
 # Early Life
 st.header("Early Life")
 st.write("""
-I was born in fairview quezon city and I was raised in brgy hayanggabon claver surigao del norte, a small town where I developed a love for dancing and playing online games at an early age. My interest in dancing and playing online games started when I was 12 years old, and by the time I turned 14. i started to try going into nature trips cause playing online games and dancing became boring so i try going on nature trips.
+I was born in Fairview, Quezon City, and raised in Brgy. Hayanggabon, Claver, Surigao Del Norte, a small town where I developed a passion for dancing and playing online games from an early age. My interest in these activities started when I was 12 years old. By the time I turned 14, I started exploring nature trips, as I felt that dancing and gaming were becoming repetitive. Nature trips offered a refreshing change and allowed me to enjoy the outdoors.
 """)
 
 # Education
 st.header("Education")
 st.write("""
-I Graduated in Taganito National High scool. High school was an exciting time because it provided me with opportunities to delve deeper into subjects that interested me, while also pushing me to expand my knowledge in areas I had never considered before. I realized that education was not just about acquiring facts; it was about learning how to apply knowledge in real-world contexts.
+I graduated from Taganito National High School. High school was an exciting time for me, as it gave me the chance to dive deeper into subjects that fascinated me, while also challenging me to expand my knowledge in new areas. I realized that education isn't just about memorizing facts; it's about learning how to apply that knowledge in the real world.
 """)
 
 # Career
 st.header("Career")
 st.write("""
-After graduating high school, I enrolled in this noble school surigao del norte state university(SNSU) As a computer engineer.
+After graduating from high school, I enrolled at Surigao del Norte State University (SNSU) to pursue a degree in Computer Engineering. This marks the beginning of my journey toward a career in technology, where I hope to contribute to solving real-world problems using my skills and knowledge.
 """)
 
 # Hobbies and Interests
 st.header("Hobbies and Interests")
 st.write("""
-When I am not dancing or playing online games, I enjoy **watching movies**, **nature trips**, and **traveling**. I also love spending a lot of time with my family.
+When I'm not dancing or playing online games, I enjoy **watching movies**, going on **nature trips**, and **traveling**. Spending quality time with my family is also something I cherish deeply.
 """)
 
-# Footer (you can also add any contact info here)
-st.markdown("---")
-st.write("© 2024 John luis j hernandez | All rights reserved")
+# Contact Information
+st.header("Contact Information")
+st.write("You can reach me at:")
+st.write("📞 **Contact Number**: +63 9706858504")  # Replace with your actual contact number
+st.write("gmail acccount johnluishernandez925@gmail.com")
 
+# Footer
+st.markdown("---")
+st.write("© 2024 John Luis J. Hernandez | All rights reserved")
