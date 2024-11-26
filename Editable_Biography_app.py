@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Biography of John Luis Hernandez")
 
 # Add an image
-st.image("path_to_your_image.jpg", width=400)  # Replace with your image path or URL
+st.image("Image (image/jpeg)", width=400)  # Replace with your image path or URL
 
 # Add some text and subheadings
 st.header("About Me")
@@ -40,7 +40,7 @@ When I'm not dancing or playing online games, I enjoy **watching movies**, going
 st.header("Contact Information")
 st.write("You can reach me at:")
 st.write("📞 **Contact Number**: +63 9706858504")  # Replace with your actual contact number
-st.write("gmail acccount johnluishernandez925@gmail.com")
+st.write("📧 **Email**: [johnluishernandez925@gmail.com](mailto:johnluishernandez925@gmail.com)")  # Replace with your Gmail
 
 # Footer
 st.markdown("---")
