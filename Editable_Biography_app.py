@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Biography of John Luis Hernandez")
 
 # Add an image
-st.image("Image (image/jpeg)", width=400)  # Replace with your image path or URL
+st.image("https://www.facebook.com/photo?fbid=1315875862908202&set=a.108824920279975", width=400)  # Replace with your image path or URL
 
 # Add some text and subheadings
 st.header("About Me")
