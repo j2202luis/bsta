@@ -35,5 +35,5 @@ When I am not dancing or playing online games, I enjoy **watching movies**, **na
 
 # Footer (you can also add any contact info here)
 st.markdown("---")
-st.write("© 2024 John Doe | All rights reserved")
+st.write("© 2024 John luis j hernandez | All rights reserved")
 
