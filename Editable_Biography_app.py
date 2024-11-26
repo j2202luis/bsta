@@ -7,9 +7,9 @@ st.title("Biography of John Luis Hernandez")
 st.markdown("""
     <style>
         .circle-img {
-            border-radius: 50%;
-            width: 400px;
-            height: 400px;
+            border-radius: 25%;
+            width: 200px;
+            height: 200px;
             object-fit: cover;
         }
     </style>
