@@ -9,7 +9,7 @@ st.markdown("""
         .circle-img {
             border-radius: 50%;
             width: 100px;
-            height: 100px;
+            height: 300px;
             object-fit: cover;
         }
     </style>
