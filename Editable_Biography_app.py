@@ -6,33 +6,34 @@ st.title("Biography of John Doe")
 # Add some text and subheadings
 st.header("About Me")
 st.write("""
-Hello! My name is **John Doe**, and I am a passionate software developer. I specialize in web development, particularly using Python and Streamlit. I enjoy building web applications that solve real-world problems and help businesses grow.
+Hello! My name is **john luis j hernandez**, and I am 18 years old. I live in brgy. Hayanggabon Claver Surigao Del Norte. and i love dancing and going into nature trips also playing online games 
 """)
 
 # Early Life
 st.header("Early Life")
 st.write("""
-I was born and raised in Springfield, a small town where I developed a love for technology at an early age. My interest in computers and programming started when I was 12 years old, and by the time I turned 14, I began learning programming languages like Python and JavaScript.
+I was born in fairview quezon city and I was raised in brgy hayanggabon claver surigao del norte, a small town where I developed a love for dancing and playing online games at an early age. My interest in dancing and playing online games started when I was 12 years old, and by the time I turned 14. i started to try going into nature trips cause playing online games and dancing became boring so i try going on nature trips.
 """)
 
 # Education
 st.header("Education")
 st.write("""
-I earned my degree in **Computer Science** from XYZ University. During my studies, I focused on software development, algorithms, and data structures. I was also involved in various extracurricular activities, including coding competitions and hackathons, which helped me sharpen my skills.
+I Graduated in Taganito National High scool. High school was an exciting time because it provided me with opportunities to delve deeper into subjects that interested me, while also pushing me to expand my knowledge in areas I had never considered before. I realized that education was not just about acquiring facts; it was about learning how to apply knowledge in real-world contexts.
 """)
 
 # Career
 st.header("Career")
 st.write("""
-After graduating, I worked as a software developer at **ABC Tech**, where I contributed to several successful projects. Over the years, I have developed expertise in building scalable web applications, both front-end and back-end. I now work as a full-time web developer and enjoy every aspect of creating software.
+After graduating high school, I enrolled in this noble school surigao del norte state university(SNSU) As a computer engineer.
 """)
 
 # Hobbies and Interests
 st.header("Hobbies and Interests")
 st.write("""
-When I am not coding, I enjoy **photography**, **hiking**, and **traveling**. I also love reading about new technologies and experimenting with side projects. In addition, I contribute to **open-source projects** whenever I get the chance!
+When I am not dancing or playing online games, I enjoy **watching movies**, **nature trips**, and **traveling**. I also love spending a lot of time with my family.
 """)
 
 # Footer (you can also add any contact info here)
 st.markdown("---")
 st.write("© 2024 John Doe | All rights reserved")
+
